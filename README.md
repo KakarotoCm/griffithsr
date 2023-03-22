@@ -1,5 +1,5 @@
 # griffithsr
-Simple LaTeX Package that adds David Griffiths' "Introduction to Electrodynamics" cursive r.
+Simple LaTeX Package that adds a cursive r similar to the one used on David Griffiths' "Introduction to Electrodynamics".
 
 ## Usage
 
