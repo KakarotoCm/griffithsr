@@ -5,8 +5,7 @@ Simple LaTeX Package that adds David Griffiths' "Introduction to Electrodynamics
 
 To use this package simply import it.
 
-'''
-\usepackage{griffithsr}
+```\usepackage{griffithsr}
 ```
 
 You're now able to use the `\scriptr` command. Enjoy!
